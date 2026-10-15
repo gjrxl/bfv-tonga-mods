@@ -1,6 +1,10 @@
-# 四兵种配备互通 · 0.1 测试版
+# 四兵种配备互通 · 0.1.1 测试版
 
-文件：`all-class-gadgets-v0.1.fbmod`。Frosty 名称：`Tonga test - all four classes gadgets`。
+<img src="../../assets/icons/all-class-gadgets.png" width="96" alt="MOD 图标">
+
+仅更新图标与版本号，游戏资源与上一版一致。原版本保留供回退。
+
+文件：`all-class-gadgets-v0.1.1.fbmod`。Frosty 名称：`Tonga test - all four classes gadgets`。
 
 在突击、医疗、支援、侦察兵的原 3／4 号配备槽，合并同阵营其他兵种原槽位的选项。覆盖四阵营、两种战斗角色，共 32 个常规配置，追加 640 个引用。包括医疗包、医疗箱和烟雾发射器；保留原列表前缀与默认装备。
 

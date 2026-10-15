@@ -1,5 +1,5 @@
 {
-  "collection_version": "0.1.0-test.1",
+  "collection_version": "0.1.0-test.2",
   "date": "2026-10-15",
   "game": "Battlefield V",
   "profile": "bfv",
@@ -11,21 +11,25 @@
   "mods": [
     {
       "id": "infantry-resupply",
-      "version": "0.2",
-      "file": "mods/infantry-resupply/infantry-resupply-v0.2.fbmod",
-      "size_bytes": 2710106,
-      "sha256": "4b74e5a5fcfc73e613e563ab24c52ebf347b27e682589534cfa2480db242e1ee",
-      "release_asset": "infantry-resupply-v0.2.fbmod",
-      "validation": "experimental; offline format verified; complete isolated game validation pending"
+      "version": "0.2.1",
+      "file": "mods/infantry-resupply/infantry-resupply-v0.2.1.fbmod",
+      "size_bytes": 2726064,
+      "sha256": "96fe28b19ef466532a1f85ed571d680dbe30f6ff8cc567a1cdefa82667d35b3f",
+      "release_asset": "infantry-resupply-v0.2.1.fbmod",
+      "validation": "experimental; offline format verified; complete isolated game validation pending",
+      "icon": "assets/icons/infantry-resupply.png",
+      "game_payload_unchanged_from_previous_version": true
     },
     {
       "id": "all-class-gadgets",
-      "version": "0.1",
-      "file": "mods/all-class-gadgets/all-class-gadgets-v0.1.fbmod",
-      "size_bytes": 289779,
-      "sha256": "7b85d01cff12302a7dd571c58e4220ea7b1642d5a2644cf75a6a70287b36151b",
-      "release_asset": "all-class-gadgets-v0.1.fbmod",
-      "validation": "experimental; offline format verified; complete isolated game validation pending"
+      "version": "0.1.1",
+      "file": "mods/all-class-gadgets/all-class-gadgets-v0.1.1.fbmod",
+      "size_bytes": 305757,
+      "sha256": "f18ec802d56a3dcba9278bbd9d4feeccdfc506277d7773ae6134cac1ad50eee2",
+      "release_asset": "all-class-gadgets-v0.1.1.fbmod",
+      "validation": "experimental; offline format verified; complete isolated game validation pending",
+      "icon": "assets/icons/all-class-gadgets.png",
+      "game_payload_unchanged_from_previous_version": true
     }
   ]
 }

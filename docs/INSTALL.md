@@ -18,8 +18,8 @@
 
 | Release 文件 | Frosty 显示名称 |
 | --- | --- |
-| `infantry-resupply-v0.2.fbmod` | `Tonga test - ammo resupply` |
-| `all-class-gadgets-v0.1.fbmod` | `Tonga test - all four classes gadgets` |
+| `infantry-resupply-v0.2.1.fbmod` | `Tonga test - ammo resupply` |
+| `all-class-gadgets-v0.1.1.fbmod` | `Tonga test - all four classes gadgets` |
 
 这两个包不要求同时启用。配备互通不负责解除装备自身的拥有或等级限制。
 
@@ -33,3 +33,7 @@
 ## 回退
 
 正常退出游戏，在 Frosty 取消相应 MOD，或选回原 Pack，再重新启动。保留下载文件即可，无须修改原游戏源资源。若自己曾改过其他配置，请按自己的备份恢复；本仓库没有更改你的账号进度。
+
+## 图标版升级
+
+下载 v0.1.0-test.2 的新文件，退出游戏后在 Frosty 导入。在 Pack 中停用旧版，启用对应新版；不要将同一 MOD 的新旧版本同时勾选。补给包为橙黄色无限补给箱，配备包为蓝绿色四格。若仍看到默认图标，先核对文件版本和 Applied Mods 中选择的是否为新版。

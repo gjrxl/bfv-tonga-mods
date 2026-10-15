@@ -1,6 +1,10 @@
-# 步兵无限补给 · 0.2 测试版
+# 步兵无限补给 · 0.2.1 测试版
 
-文件：`infantry-resupply-v0.2.fbmod`。Frosty 名称：`Tonga test - ammo resupply`。
+<img src="../../assets/icons/infantry-resupply.png" width="96" alt="MOD 图标">
+
+仅更新图标与版本号，游戏资源与上一版一致。原版本保留供回退。
+
+文件：`infantry-resupply-v0.2.1.fbmod`。Frosty 名称：`Tonga test - ammo resupply`。
 
 调整步兵武器及部分配备的备用弹药、自动补充，涵盖 145 项资源，包含加兰德榴弹备用弹药覆盖层。保留原容量、初始弹药、装填、弹道及伤害数据。需要按原有流程装填。
 
