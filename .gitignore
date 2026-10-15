@@ -1,0 +1,18 @@
+# Local credentials, generated tools and personal configuration
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+manager_config.json
+*.log
+*.cache
+*.exe
+*.dll
+*.fbproject
+*.ebx
+__pycache__/
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini

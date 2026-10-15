@@ -1,0 +1,31 @@
+{
+  "collection_version": "0.1.0-test.1",
+  "date": "2026-10-15",
+  "game": "Battlefield V",
+  "profile": "bfv",
+  "data_head": 3564730,
+  "test_environment": {
+    "frosty": "1.0.6.3",
+    "mode": "Tonga private test session"
+  },
+  "mods": [
+    {
+      "id": "infantry-resupply",
+      "version": "0.2",
+      "file": "mods/infantry-resupply/infantry-resupply-v0.2.fbmod",
+      "size_bytes": 2710106,
+      "sha256": "4b74e5a5fcfc73e613e563ab24c52ebf347b27e682589534cfa2480db242e1ee",
+      "release_asset": "infantry-resupply-v0.2.fbmod",
+      "validation": "experimental; offline format verified; complete isolated game validation pending"
+    },
+    {
+      "id": "all-class-gadgets",
+      "version": "0.1",
+      "file": "mods/all-class-gadgets/all-class-gadgets-v0.1.fbmod",
+      "size_bytes": 289779,
+      "sha256": "7b85d01cff12302a7dd571c58e4220ea7b1642d5a2644cf75a6a70287b36151b",
+      "release_asset": "all-class-gadgets-v0.1.fbmod",
+      "validation": "experimental; offline format verified; complete isolated game validation pending"
+    }
+  ]
+}

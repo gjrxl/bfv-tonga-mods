@@ -1,0 +1,2 @@
+4b74e5a5fcfc73e613e563ab24c52ebf347b27e682589534cfa2480db242e1ee  infantry-resupply-v0.2.fbmod
+7b85d01cff12302a7dd571c58e4220ea7b1642d5a2644cf75a6a70287b36151b  all-class-gadgets-v0.1.fbmod
