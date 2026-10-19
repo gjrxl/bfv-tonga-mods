@@ -1,0 +1,56 @@
+{
+  "version": "v0.2.0-test.1",
+  "date": "2026-10-20",
+  "mods": [
+    {
+      "file": "MOD/TONGA_Vehicle_Combined_ICON_v01.fbmod",
+      "sha256": "53a5393d5cbef3d8cdb991b8c427c162897dad16e414779a87ba97260bcb17fb",
+      "bytes": 2020716,
+      "title": "载具无限备弹与不过热",
+      "description": "调整载具备用弹药补充与散热，保留正常装填。",
+      "internal_title": "Tonga vehicle - ammo and no heat candidate",
+      "version": "0.1.1",
+      "experimental": false
+    },
+    {
+      "file": "MOD/TONGA_Vehicle_AllFactions_Grid_Pacific_v02.fbmod",
+      "sha256": "25534ffc0ab7dcbe0e6ca6937fe115c5698c4e743b2ca576f60124d6e59b1738",
+      "bytes": 843474,
+      "title": "各国载具互通与多排列表",
+      "description": "扩展各阵营可选载具，并将部署选择列表改为多排。",
+      "internal_title": "Tonga vehicle - all factions Pacific repair + multi-row CANDIDATE",
+      "version": "0.2.0",
+      "experimental": false
+    },
+    {
+      "file": "MOD/TONGA_Vehicle_Equipment_5s_v01.fbmod",
+      "sha256": "c36c2321634f31bc7aa130df20d2cbcd88a6b215fab2e288a0739a46a0cb338d",
+      "bytes": 118056,
+      "title": "配备快速冷却",
+      "description": "将维修、烟雾等配备超过5秒的基础冷却缩短到5秒，原本更短的保持。",
+      "internal_title": "Tonga vehicle - equipment cooldown 5s ADDON",
+      "version": "0.1.0",
+      "experimental": false
+    },
+    {
+      "file": "MOD/TONGA_Pacific_Vehicle_Collections_v01.fbmod",
+      "sha256": "83ca2301caf9b55eac19d441053429a1a19f4a25a50aa6c1f3752db01c6748e3",
+      "bytes": 15747,
+      "title": "太平洋载具清单补全",
+      "description": "配合载具互通包，补全太平洋地图的普通载具出生清单。",
+      "internal_title": "Tonga Pacific - vehicle spawn collections ADDON",
+      "version": "0.1.0",
+      "experimental": false
+    },
+    {
+      "file": "实验可选/TONGA_Ground_BaseWeapons_v01.fbmod",
+      "sha256": "8ee63bd262823de252195eb0223c416130cb8ed1697483c2a2c178ddf66479b3",
+      "bytes": 637196,
+      "title": "10车型基础武器（实验可选）",
+      "description": "为10种英德地面载具固定原版基础武器配置。",
+      "internal_title": "Tonga - ground vehicle base weapons",
+      "version": "0.1.0",
+      "experimental": true
+    }
+  ]
+}
