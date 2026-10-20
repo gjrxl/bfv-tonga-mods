@@ -1,5 +1,5 @@
 {
-  "version": "v0.2.0-test.1",
+  "version": "v0.2.0-test.2",
   "date": "2026-10-20",
   "mods": [
     {
@@ -43,13 +43,13 @@
       "experimental": false
     },
     {
-      "file": "实验可选/TONGA_Ground_BaseWeapons_v01.fbmod",
-      "sha256": "8ee63bd262823de252195eb0223c416130cb8ed1697483c2a2c178ddf66479b3",
-      "bytes": 637196,
+      "file": "实验可选/TONGA_Ground_BaseWeapons_v02.fbmod",
+      "sha256": "ad5112125d413709b1f363c9694e65b9970f3c3281c6b5e8183fef4941c61937",
+      "bytes": 637130,
       "title": "10车型基础武器（实验可选）",
-      "description": "为10种英德地面载具固定原版基础武器配置。",
-      "internal_title": "Tonga - ground vehicle base weapons",
-      "version": "0.1.0",
+      "description": "为10种英德地面载具固定原版基础武器配置；同步四号防空车炮塔，用户已确认炮塔显示与开火正常。其他车型和专长组合未全面验收。",
+      "internal_title": "Tonga - ground base weapons + Wirbelwind turret TEST",
+      "version": "0.1.1",
       "experimental": true
     }
   ]
